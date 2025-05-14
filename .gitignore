@@ -1,0 +1,9 @@
+﻿# JetBrains
+.idea/
+
+# Build files
+bin
+obj
+
+# DotSettings
+*.DotSettings.user
