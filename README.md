@@ -13,7 +13,7 @@ All of the Math types that you'll want to store in your tables to persist state 
 -   Matrix3x3
 -   Transform
 
-> :caution: NOTE: There are nullable warnings that need fixing in the physics code, but these can be safely ignored until fixed
+> :exclamation: **NOTE**: There are nullable warnings that need fixing in the physics code, but these can be safely ignored until fixed
 
 ### Example usage:
 
